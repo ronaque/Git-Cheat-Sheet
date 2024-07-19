@@ -1,10 +1,4 @@
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
-- Git Status: <r>SEMPRE USAR</r>
+- Git Status: $${\color{SEMPRE USAR}Red}$$
 
 # Branches
 - Listar: 
