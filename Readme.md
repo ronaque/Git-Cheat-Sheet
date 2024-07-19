@@ -1,5 +1,3 @@
-- Git Status: $${\color{SEMPRE USAR}Red}$$
-
 # Branches
 - Listar: 
     - Branches locais e remotas: git branch -a
@@ -81,9 +79,15 @@ git push origin \<nome-da-branch>
 git checkout main
 git pull
 git checkout ex1
+git status
 git merge main
 (resolução dos conflitos nos arquivos)
+git status
 git add .
+git status
 git commit -m "Merge main"
 git push origin ex1
 ```
+
+> [!NOTE]
+> Sempre Usar Git Status 
